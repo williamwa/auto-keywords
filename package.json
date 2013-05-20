@@ -2,12 +2,12 @@
   "name": "auto-keywords",
   "version": "0.0.1",
   "description": "generate keywords from text",
-  "keywords"      : ["util", "meta", "keywords"],
+  "keywords": ["util", "meta", "keywords", "SEO"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": "https://github.com/lancehub/auto-keywords.git",
   "author": "William Wang",
   "license": "BSD"
 }

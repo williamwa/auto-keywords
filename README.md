@@ -3,7 +3,7 @@ Generate keywords from text
 to use it:
 
 ```
-npm install auto_keywords
+npm install auto-keywords
 ```
 
 ```
