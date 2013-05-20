@@ -1,7 +1,7 @@
 {
   "name": "auto-keywords",
-  "version": "0.0.1",
-  "description": "generate keywords from text",
+  "version": "0.0.2",
+  "description": "extract keywords from text",
   "keywords": ["util", "meta", "keywords", "SEO"],
   "main": "index.js",
   "scripts": {

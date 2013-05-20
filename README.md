@@ -1,4 +1,4 @@
-Generate keywords from text
+Extract keywords from text
 
 to use it:
 
@@ -7,7 +7,7 @@ npm install auto-keywords
 ```
 
 ```
-var generate = require('auto-keywords');
+var extract = require('auto-keywords');
 
-var keywords = generate('your text here');
+var keywords = extract('your text here');
 ```
