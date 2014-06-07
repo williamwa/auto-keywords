@@ -1,13 +1,28 @@
 {
   "name": "auto-keywords",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "extract keywords from text",
-  "keywords": ["util", "meta", "keywords", "SEO"],
+  "keywords": [
+    "util",
+    "meta",
+    "keywords",
+    "SEO"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "https://github.com/lancehub/auto-keywords.git",
   "author": "William Wang",
-  "license": "BSD"
+  "contributors": [
+    { 
+      "name" : "Daniele Brugnara", 
+      "email" : "daniele@brugnara.me",
+      "url" : "http://brugnara.me/"
+    }
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "require-all": "0.0.8"
+  }
 }
